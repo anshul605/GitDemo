@@ -3,6 +3,7 @@ public class main {
         System.out.println("Hello world");
         System.out.println(Calculator.add(19,15));
         System.out.println(InterestCalculator.calculate(1000000,8,5));
+        System.out.println(SIPCalculator.checkout(1999,1,2,3));
     }
 }
 
