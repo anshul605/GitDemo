@@ -6,7 +6,7 @@ public class main {
         System.out.println(CompoundInterestCalculator.calculate(1000000,8,5));
         System.out.println(SIPCalculator.checkout(1999,1,2,3));
         System.out.println(CompoundInterestCalculator.calculate(1000000,8,5));
-
+        System.out.println(HomeLoanCalculator.homeLoanCalculator(199,1,2,3));
     }
 }
 
